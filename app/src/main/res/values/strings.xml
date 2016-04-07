@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">印象</string>
+    <string name="white">白色</string>
+    <string name="blue">蓝色</string>
+    <string name="red">红色</string>
+    <string name="save">保存</string>
+</resources>
